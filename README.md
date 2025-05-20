@@ -1,5 +1,11 @@
 # 👋 Hello, I'm Nigler10!
 
+<p align="center">
+  <img src="https://i.makeagif.com/media/11-23-2020/eAxGWE.gif" width="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.tenor.com/Bef9g3H_63sAAAAM/pear-teto-teto-kasane.gif" width="180"/>
+</p>
+
 I'm a developer passionate about building web applications and games using Python, Django, and JavaScript. I enjoy learning new things and creating both fun and useful projects.
 
 ---
