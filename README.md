@@ -12,7 +12,7 @@ expect random projects, questionable design choices, and occasional bursts of mo
 ---
 
 <p align="center">
-  <img src="https://i0.wp.com/img3.wikia.nocookie.net/__cb20131210214721/magical-girl-mahou-shoujo/images/e/ec/Madoka_Magica_wallpaper.jpg" width="600"/>
+  <img src="https://i0.wp.com/img3.wikia.nocookie.net/__cb20131210214721/magical-girl-mahou-shoujo/images/e/ec/Madoka_Magica_wallpaper.jpg" width="300"/>
 </p>
 
 ### 🩷 You Should Totally Watch Mahou Shoujo Madoka Magica™
