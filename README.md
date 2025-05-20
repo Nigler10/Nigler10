@@ -1,12 +1,25 @@
 # 👋 Hello, I'm Nigler10!
 
 <p align="center">
-  <img src="https://i.makeagif.com/media/11-23-2020/eAxGWE.gif" width="180"/>
+  <img src="https://media.tenor.com/Z_jHYKTiYFAAAAAM/kasane-teto.gif" width="180"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.tenor.com/Bef9g3H_63sAAAAM/pear-teto-teto-kasane.gif" width="180"/>
 </p>
 
-I'm a developer passionate about building web applications and games using Python, Django, and JavaScript. I enjoy learning new things and creating both fun and useful projects.
+i mess around with code and sometimes it works.  
+expect random projects, questionable design choices, and occasional bursts of motivation at 3AM.
+
+---
+
+<p align="center">
+  <img src="https://i0.wp.com/img3.wikia.nocookie.net/__cb20131210214721/magical-girl-mahou-shoujo/images/e/ec/Madoka_Magica_wallpaper.jpg" width="600"/>
+</p>
+
+### 🩷 You Should Totally Watch Mahou Shoujo Madoka Magica™
+
+Magical girls. Sparkles. Talking animals. A perfectly normal and wholesome anime experience.  
+No sadness, no weird vibes, definitely nothing suspicious happening at all.  
+Seriously, just watch it. It’ll brighten your day in the most unexpected ways.
 
 ---
 
