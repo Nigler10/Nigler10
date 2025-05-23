@@ -55,13 +55,13 @@ A Django-based web app for managing students, records, and grading. Uses Django 
 
 ---
 
-## 🎵 Now Playing: "And I'm Home"
+## 🎵 Now Playing: "and I'm Home"
 
 <p align="center">
   <a href="https://youtu.be/QKouLYAOrDc?si=Yue-WprK7_mWv4AQ">
     <img src="https://img.youtube.com/vi/QKouLYAOrDc/0.jpg" alt="And I'm Home - YouTube">
   </a><br>
-  ▲ Click to listen to “And I’m Home” from Mahou Shoujo Madoka Magica
+  ▲ Click to listen to “and I’m Home” from Mahou Shoujo Madoka Magica
 </p>
 
 ---
@@ -75,7 +75,9 @@ A Django-based web app for managing students, records, and grading. Uses Django 
 
 ## 💬 Dev Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
+</p>
 
 ---
 
