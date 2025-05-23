@@ -57,10 +57,8 @@ A Django-based web app for managing students, records, and grading. Uses Django 
 
 ## 🎵 Now Playing: "And I'm Home"
 
-<p align="center">
-  [![And I'm Home - YouTube](https://img.youtube.com/vi/QKouLYAOrDc/0.jpg)](https://youtu.be/QKouLYAOrDc?si=Yue-WprK7_mWv4AQ)  
-  ▲ Click to listen to “And I’m Home” from Mahou Shoujo Madoka Magica
-</p>
+[![And I'm Home - YouTube](https://img.youtube.com/vi/QKouLYAOrDc/0.jpg)](https://youtu.be/QKouLYAOrDc?si=Yue-WprK7_mWv4AQ)  
+▲ Click to listen to “And I’m Home” from Mahou Shoujo Madoka Magica
 
 ---
 
