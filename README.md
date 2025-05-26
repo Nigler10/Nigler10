@@ -36,11 +36,17 @@ Seriously, just watch it. It’ll brighten your day in the most unexpected ways.
 
 ## 🧩 Projects
 
-### 🎵 Project SEKAI: Homura Version
-A web-based rhythm game inspired by Project SEKAI, built with plain HTML, CSS, and JavaScript. Includes a real-time chart editor and playback from JSON files.
+### 🎵 Project SEKAI: Homura Version &nbsp; ![Status](https://img.shields.io/badge/Status-Cancelled-red?style=flat-square)
+A web-based rhythm game inspired by Project SEKAI, built with plain HTML, CSS, and JavaScript.  
+Includes a real-time chart editor and playback from JSON files.  
+May it rest in peace — gone, but never forgotten.
 
-### 🎓 Student Management System
-A Django-based web app for managing students, records, and grading. Uses Django REST Framework for the backend and plain JS/HTML/CSS on the frontend.
+---
+
+### 🎓 Student Management System &nbsp; ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+A Django-based web app for managing students, records, and grading.  
+Uses Django REST Framework for the backend and plain JS/HTML/CSS on the frontend.  
+Still under construction — powered by snacks and late-night debugging.
 
 ---
 
