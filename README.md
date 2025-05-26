@@ -45,7 +45,7 @@ May it rest in peace — gone, but never forgotten.
 
 ### 🎓 Student Management System &nbsp; ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
 A Django-based web app for managing students, records, and grading.  
-Uses Django REST Framework for the backend and plain JS/HTML/CSS on the frontend.  
+Uses Django REST Framework for the backend and plain HTML/CSS/JS on the frontend.  
 Still under construction — powered by snacks and late-night debugging.
 
 ---
