@@ -102,8 +102,9 @@ Project complete — powered by caffeine and code hustle.
 
 ## 🦍 Monkeying Around
 
-![Gorilla Dev](https://img.shields.io/badge/Gorilla%20Dev%20🔥-Unstoppable-blueviolet?style=for-the-badge&logo=github)  
-![Monkey](https://img.shields.io/badge/Monkey%20Mode-ON-orange?style=flat-square&logo=monkey)
+![Gorilla Dev](https://img.shields.io/badge/Gorilla%20Dev%20😴-Exhausted-blueviolet?style=for-the-badge&logo=github)  
+
+![Monkey](https://img.shields.io/badge/Monkey%20Mode-Off-lightgrey?style=flat-square&logo=monkey)
 
 ---
 
