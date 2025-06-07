@@ -16,7 +16,9 @@ This GitHub profile was mostly for school projects, so maybe no one will come ba
 > _"To whoever finds this: I was here once."_  
 > — Homura-chan
 
-[![lofi beats to cry to](https://img.shields.io/badge/lofi%20bgm-playing-blue?logo=youtube)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+## 🎧 Last BGM: *and I'm home*
+
+[![and I'm home](https://img.shields.io/badge/and%20I'm%20home-playing-blue?logo=youtube)](https://youtu.be/QKouLYAOrDc?si=9s5nOibaip-7XOq0)
 
 ![Visitor badge](https://komarev.com/ghpvc/?username=Nigler10&style=flat&color=grey)
 
@@ -30,8 +32,10 @@ This GitHub profile was mostly for school projects, so maybe no one will come ba
   <img src="https://media.tenor.com/Bef9g3H_63sAAAAM/pear-teto-teto-kasane.gif" width="180"/>
 </p>
 
-i mess around with code and sometimes it works.  
-expect random projects, questionable design choices, and occasional bursts of motivation at 3AM.
+I used to mess around with code, and sometimes it actually worked.  
+You could find random projects, questionable design choices, and bursts of motivation — usually at 3AM.
+
+But this chapter is closed now.
 
 ---
 
