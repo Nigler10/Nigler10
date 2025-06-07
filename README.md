@@ -20,7 +20,8 @@ This GitHub profile was mostly for school projects, so maybe no one will come ba
 
 [![and I'm home](https://img.shields.io/badge/and%20I'm%20home-playing-blue?logo=youtube)](https://youtu.be/QKouLYAOrDc?si=9s5nOibaip-7XOq0)
 
-![Visitor badge](https://komarev.com/ghpvc/?username=Nigler10&style=flat&color=grey)
+![Visitor badge](https://komarev.com/ghpvc/?username=Nigler10&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ---
 
