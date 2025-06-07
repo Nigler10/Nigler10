@@ -1,3 +1,27 @@
+# 💤 Offline Mode: Activated
+
+<!-- DAYS_OFFLINE_START -->
+💤 It has been **0 days** since I last used GitHub.
+<!-- DAYS_OFFLINE_END -->
+
+---
+
+## 🫧 School Arc: The End
+
+As of **June 7, 2025**, I've stopped using GitHub.  
+I didn’t graduate, but I gave it what I could.
+
+This GitHub profile was mostly for school projects, so maybe no one will come back here. But if you're reading this... thanks. You saw me.
+
+> _"To whoever finds this: I was here once."_  
+> — Homura-chan
+
+[![lofi beats to cry to](https://img.shields.io/badge/lofi%20bgm-playing-blue?logo=youtube)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+
+![Visitor badge](https://komarev.com/ghpvc/?username=Nigler10&style=flat&color=grey)
+
+---
+
 # 👋 Hello, I'm Nigler10!
 
 <p align="center">
