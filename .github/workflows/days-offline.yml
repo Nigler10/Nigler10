@@ -1,0 +1,34 @@
+name: Update Days Offline
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Calculate days offline
+        run: |
+          TODAY=$(date +%s)
+          LAST_DAY=$(date -d "2025-06-07" +%s)
+          DAYS=$(( (TODAY - LAST_DAY) / 86400 ))
+          echo "DAYS=$DAYS" >> $GITHUB_ENV
+
+      - name: Update README.md
+        run: |
+          sed -i '/<!-- DAYS_OFFLINE_START -->/,/<!-- DAYS_OFFLINE_END -->/c\
+          <!-- DAYS_OFFLINE_START -->\
+          💤 It has been **${{ env.DAYS }} days** since I last used GitHub.\
+          <!-- DAYS_OFFLINE_END -->' README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "update days offline" || echo "no changes"
+          git push
