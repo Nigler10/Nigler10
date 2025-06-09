@@ -11,6 +11,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Set token-authenticated remote
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
+
       - name: Calculate days offline
         run: |
           TODAY=$(date +%s)
@@ -25,7 +31,7 @@ jobs:
           💤 It has been **${{ env.DAYS }} days** since I last used GitHub.\
           <!-- DAYS_OFFLINE_END -->' README.md
 
-      - name: Commit changes
+      - name: Commit and push changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
@@ -33,5 +39,4 @@ jobs:
           git config user.email "nigler10-bot@example.com"
           git add README.md
           git commit -m "update days offline" || echo "no changes"
-          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
           git push origin HEAD
