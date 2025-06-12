@@ -1,7 +1,7 @@
 # 💤 Offline Mode: Activated
 
 <!-- DAYS_OFFLINE_START -->
-💤 It has been **4 days** since I last used GitHub.
+💤 It has been **5 days** since I last used GitHub.
 <!-- DAYS_OFFLINE_END -->
 
 ---
