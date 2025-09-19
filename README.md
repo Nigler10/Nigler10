@@ -85,3 +85,8 @@ Project complete — powered by caffeine and code hustle.
 <p align="center">
   Thanks for visiting! Feel free to check out my projects 😄
 </p>
+
+---
+
+## 🐍 Snek
+![Snake animation](https://github.com/Nigler10/Nigler10/blob/output/snake.svg)
