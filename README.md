@@ -1,29 +1,9 @@
-# 💤 Offline Mode: Activated
+<!-- # 💤 Offline Mode: Activated -->
 
 <!-- DAYS_OFFLINE_START -->
-💤 It has been **104 days** since I last used GitHub.
+<!-- 💤 It has been **104 days** since I last used GitHub. -->
 <!-- DAYS_OFFLINE_END -->
 
----
-
-## 🫧 School Arc: The End
-
-As of **June 7, 2025**, I've stopped using GitHub.  
-I didn’t graduate, but I gave it what I could.
-
-This GitHub profile was mostly for school projects, so maybe no one will come back here. But if you're reading this... thanks. You saw me.
-
-> _"To whoever finds this: I was here once."_  
-> — Homura-chan
-
-## 🎧 Last BGM: *and I'm home*
-
-[![and I'm home](https://img.shields.io/badge/and%20I'm%20home-playing-blue?logo=youtube)](https://youtu.be/QKouLYAOrDc?si=9s5nOibaip-7XOq0)
-
-![Visitor badge](https://komarev.com/ghpvc/?username=Nigler10&label=Profile%20views&color=0e75b6&style=flat)
-
-
----
 
 # 👋 Hello, I'm Nigler10!
 
@@ -33,10 +13,11 @@ This GitHub profile was mostly for school projects, so maybe no one will come ba
   <img src="https://media.tenor.com/Bef9g3H_63sAAAAM/pear-teto-teto-kasane.gif" width="180"/>
 </p>
 
-I used to mess around with code, and sometimes it actually worked.  
-You could find random projects, questionable design choices, and bursts of motivation — usually at 3AM.
+I mess around with code, and sometimes it actually works.  
+You’ll find random projects, questionable design choices, and bursts of motivation — usually at 3AM.
 
-But this chapter is closed now.
+[![and I'm home](https://img.shields.io/badge/and%20I'm%20home-playing-blue?logo=youtube)](https://youtu.be/QKouLYAOrDc?si=9s5nOibaip-7XOq0)  
+![Visitor badge](https://komarev.com/ghpvc/?username=Nigler10&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
@@ -85,22 +66,11 @@ Project complete — powered by caffeine and code hustle.
 
 ---
 
-## 🎵 Now Playing: "and I'm Home"
-
-<p align="center">
-  <a href="https://youtu.be/QKouLYAOrDc?si=Yue-WprK7_mWv4AQ">
-    <img src="https://img.youtube.com/vi/QKouLYAOrDc/0.jpg" alt="And I'm Home - YouTube">
-  </a><br>
-  ▲ Click to listen to “and I’m Home” from Mahou Shoujo Madoka Magica
-</p>
-
----
-
 ## 🦍 Monkeying Around
 
-![Gorilla Dev](https://img.shields.io/badge/Gorilla%20Dev%20😴-Exhausted-blueviolet?style=for-the-badge&logo=github)  
+![Gorilla Dev](https://img.shields.io/badge/Gorilla%20Dev%20🦍-Umazing-yellow?style=for-the-badge&logo=github)
 
-![Monkey](https://img.shields.io/badge/Monkey%20Mode-Off-lightgrey?style=flat-square&logo=monkey)
+![Monkey](https://img.shields.io/badge/Monkey%20Mode-On-green?style=flat-square&logo=monkey)
 
 ---
 
@@ -112,4 +82,6 @@ Project complete — powered by caffeine and code hustle.
 
 ---
 
-Thanks for visiting! Feel free to check out my projects 😄
+<p align="center">
+  Thanks for visiting! Feel free to check out my projects 😄
+</p>
