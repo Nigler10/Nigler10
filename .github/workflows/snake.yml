@@ -24,7 +24,7 @@ jobs:
           github_user_name: Nigler10
           outputs: |
             dist/snake.svg
-          args: --grid-size=7x52 # force exactly 7 rows (Sun–Sat)
+          args: --grid-size=6x52 # force exactly 7 rows (Sun–Sat)
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
