@@ -61,7 +61,7 @@ Project complete — powered by caffeine and code hustle.
 ---
 
 ## 📊 GitHub Stats
-![Nigler10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nigler10&show_icons=true&theme=tokyonight)
+![Nigler10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nigler10&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigler10&layout=compact&theme=tokyonight)
 
 ---
