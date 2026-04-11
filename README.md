@@ -1,10 +1,3 @@
-<!-- # 💤 Offline Mode: Activated -->
-
-<!-- DAYS_OFFLINE_START -->
-<!-- 💤 It has been **120 days** since I last used GitHub. -->
-<!-- DAYS_OFFLINE_END -->
-
-
 # 👋 Hello, I'm Nigler10!
 
 <p align="center">
@@ -21,15 +14,11 @@ You’ll find random projects, questionable design choices, and bursts of motiva
 
 ---
 
-<p align="center">
-  <img src="https://i0.wp.com/img3.wikia.nocookie.net/__cb20131210214721/magical-girl-mahou-shoujo/images/e/ec/Madoka_Magica_wallpaper.jpg" width="300"/>
-</p>
+## 🦍 Monkeying Around
 
-### 🎀 You Should Totally Watch Mahou Shoujo Madoka Magica
+![Gorilla Dev](https://img.shields.io/badge/Gorilla%20Dev%20🦍-Umazing-yellow?style=for-the-badge&logo=github)
 
-Magical girls. Sparkles. Talking animals. A perfectly normal and wholesome anime experience.  
-No sadness, no weird vibes, definitely nothing suspicious happening at all.  
-Seriously, just watch it. It’ll brighten your day in the most unexpected ways.
+![Monkey](https://img.shields.io/badge/Monkey%20Mode-On-green?style=flat-square&logo=monkey)
 
 ---
 
@@ -64,13 +53,11 @@ Project complete — powered by caffeine and code hustle.
 ![Nigler10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nigler10&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigler10&layout=compact&theme=tokyonight)
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nigler10&theme=tokyonight"/>
+</p>
 
-## 🦍 Monkeying Around
-
-![Gorilla Dev](https://img.shields.io/badge/Gorilla%20Dev%20🦍-Umazing-yellow?style=for-the-badge&logo=github)
-
-![Monkey](https://img.shields.io/badge/Monkey%20Mode-On-green?style=flat-square&logo=monkey)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nigler10&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -82,11 +69,11 @@ Project complete — powered by caffeine and code hustle.
 
 ---
 
-<p align="center">
-  Thanks for visiting! Feel free to check out my projects 😄
-</p>
+## 🐍 Snek
+![Snake animation](https://github.com/Nigler10/Nigler10/blob/output/snake.svg)
 
 ---
 
-## 🐍 Snek
-![Snake animation](https://github.com/Nigler10/Nigler10/blob/output/snake.svg)
+<p align="center">
+  Thanks for visiting! Feel free to check out my projects 😄
+</p>
